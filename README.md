@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shimul Chandra Das</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh </h3>
+<h3>Hi 👋, <br/>
+<h1>I'm Shimul Chandra Das</h1>
+</h3>
+<h3>A passionate frontend developer from Bangladesh </h3>
+<br/>
+<br/>
 <img align="right" alt='coading' width='400' src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimulchandradas&label=Profile%20views&color=0e75b6&style=flat" alt="shimulchandradas" /> </p>
