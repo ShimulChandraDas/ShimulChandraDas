@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/shimulc53661032" target="blank"><img src="https://img.shields.io/twitter/follow/shimulc53661032?logo=twitter&style=for-the-badge" alt="shimulc53661032" /></a> </p>
 
-- 💬 Ask me about **React, MEARN**
+- 💬 Ask me about **React, MERN**
 
 - 📫 How to reach me **msshimul99@gmail.com**
 
